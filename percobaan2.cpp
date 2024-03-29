@@ -10,8 +10,8 @@ public:
         cout << "Shift : 5" << endl;
         cout << "Nama anggota 1 : Arif Zulham Bagaskara " << endl;
         cout << "Nama anggota 2 : Muhammad Zaky Adzkiya" << endl;
-        cout << "Nama anggota 3 : Donito" << endl;
-        cout << "Nama anggota 4 : Sekar " << endl;
+        cout << "Nama anggota 3 : Sekar Mitayani" << endl;
+        cout << "Nama anggota 4 : Donito (gak ngerjain) " << endl;
     }
 };
 
@@ -78,7 +78,7 @@ int main()
             cout << "" << endl;
             break;
         default:
-            cout << "PAKET TIDAK TERDAFTAR SILAHKAN PINDAH WARNET SEBELAH!" << endl;
+            cout << "MOHON MAAF YH, PAKET TIDAK TERDAFTAR SILAHKAN PINDAH WARNET SEBELAH!" << endl;
             break;
         }
 
